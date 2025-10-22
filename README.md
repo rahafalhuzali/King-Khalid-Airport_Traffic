@@ -74,7 +74,7 @@ Before visualization, the dataset was **cleaned and preprocessed**:
 ## 📈 Dashboard Screenshots
 
 ### Flight Overview Page
-![Dashboard 1](Screenshot 2025-10-22 104637.png)
+![Dashboard 1](Screenshot_2025-10-22104637.png)
 
 ### Flight Status and Route Page
 ![Dashboard 2](https://github.com/yourusername/yourrepo/blob/main/Screenshot%202025-10-22%20105037.png)
