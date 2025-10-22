@@ -96,12 +96,4 @@ Before visualization, the dataset was **cleaned and preprocessed**:
 
 ---
 
-## 👨‍💻 Author
-
-**Developed by:** [Your Name]  
-**Contact:** [Your Email or LinkedIn]  
-**Date:** October 2025
-
----
-
 ⭐ If you like this project, please give it a **star** on GitHub!
